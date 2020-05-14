@@ -14,5 +14,3 @@ class Dog
   fido.name = "Fido"
   fido.bark
 end
-
-
